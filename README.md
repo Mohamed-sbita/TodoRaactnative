@@ -22,7 +22,7 @@ A simple Todo application built with React Native.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+   git clone  https://github.com/Mohamed-sbita/TodoRaactnative.git
 2. Navigate to the project directory:
    ````bash
    cd TodoRaactnative
